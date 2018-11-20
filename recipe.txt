@@ -4,6 +4,9 @@ rice
 dal
 pampad
 salat
+
+(kindly select Basic itms)
+
 kheer
 fish curry
 mutton curry

@@ -1,6 +1,9 @@
 Welcome to recipe tutorial
 
-
+rice
+dal
+pampad
+salat
 kheer
 fish curry
 mutton curry
